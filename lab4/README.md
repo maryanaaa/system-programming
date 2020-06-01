@@ -10,9 +10,9 @@ F -> V | D
 ```
 
 # Приклади виконання програми
-![](examples/1.png)<br>
-![](examples/2.png)<br>
-![](examples/3.png)<br>
-![](examples/4.png)<br>
+![](examples/6.png)<br>
 ![](examples/5.png)<br>
-![](examples/6.png)
+![](examples/4.png)<br>
+![](examples/3.png)<br>
+![](examples/2.png)<br>
+![](examples/1.png)
