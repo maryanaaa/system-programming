@@ -11,3 +11,8 @@ F -> V | D
 
 # Приклади виконання програми
 ![](examples/1.png)
+![](examples/2.png)
+![](examples/3.png)
+![](examples/4.png)
+![](examples/5.png)
+![](examples/6.png)
