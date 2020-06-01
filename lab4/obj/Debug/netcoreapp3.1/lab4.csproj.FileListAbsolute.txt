@@ -1,0 +1,13 @@
+D:\uni\6th semester\system programming\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csprojAssemblyReference.cache
+D:\uni\6th semester\system programming\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfoInputs.cache
+D:\uni\6th semester\system programming\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfo.cs
+D:\uni\6th semester\system programming\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CoreCompileInputs.cache
+D:\uni\6th semester\system programming\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.exe
+D:\uni\6th semester\system programming\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.deps.json
+D:\uni\6th semester\system programming\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.json
+D:\uni\6th semester\system programming\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.dev.json
+D:\uni\6th semester\system programming\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.dll
+D:\uni\6th semester\system programming\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.pdb
+D:\uni\6th semester\system programming\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.dll
+D:\uni\6th semester\system programming\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.pdb
+D:\uni\6th semester\system programming\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.genruntimeconfig.cache
